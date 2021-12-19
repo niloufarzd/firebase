@@ -1,0 +1,17 @@
+ //craete api key in firebase 
+apiKey: "AIzaSyBY5f3vyzJMVXP1x-Mg4dtHT7vloNrPu2I",
+    authDomain: "fierbase-2b8fa.firebaseapp.com",
+    projectId: "fierbase-2b8fa",
+    storageBucket: "fierbase-2b8fa.appspot.com",
+    messagingSenderId: "1010887963595",
+    appId: "1:1010887963595:web:554423690d7fcae9903c4e",
+    measurementId: "G-Z9RCRTS3V1"
+///
+npm i vue-firebase
+npm i firebase
+npm i firebase-tools
+firebase login
+firebase init
+firebase use --add
+dist/enter public
+firebase deploy
